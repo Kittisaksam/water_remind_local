@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "WebSearch",
+      "Bash(python3:*)",
+      "Bash(./venv/bin/pip:*)",
+      "Bash(timeout:*)",
+      "Bash(pkill:*)",
+      "Bash(launchctl load:*)",
+      "Bash(launchctl start:*)",
+      "Bash(launchctl list:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
