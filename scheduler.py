@@ -22,7 +22,7 @@ class WaterReminderScheduler:
         "12:00": "Lunch time reminder! Stay hydrated! 🌊",
         "15:00": "Afternoon hydration break! 💦",
         "18:00": "Evening water reminder! 🚰",
-        "21:00": "Last call for water today! Good night! 🌙",
+        "19:00": "Last call for water today! Good night! 🌙",
     }
 
     def __init__(self, telegram_notifier: "TelegramNotifier") -> None:
